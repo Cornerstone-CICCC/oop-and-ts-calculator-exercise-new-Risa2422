@@ -56,5 +56,5 @@ class Calculator {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  const myTodoList = new Calculator();
+  const myCalculator = new Calculator();
 });
